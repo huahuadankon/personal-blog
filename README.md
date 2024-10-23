@@ -1,2 +1,0 @@
-# huahuadankon.github.io
-kon
