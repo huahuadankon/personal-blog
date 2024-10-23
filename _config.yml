@@ -15,7 +15,7 @@ avatar: source\assets\avatar.jpg
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://huahaudan.com
+url: http://huahuadankon.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -104,5 +104,5 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/huahuadankon/huahuadankon.github.io.git
+  repo: git@github.com:huahuadankon/huahuadankon.github.io.git
   branch: main
